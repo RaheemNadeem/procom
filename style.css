@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 25 2021 12:59:58 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 25 2021 13:09:52 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -495,6 +495,7 @@
      .button.ghost-button {
        margin-left: 19px;
        padding: 8px 25px;
+       border-width: 1px;
        font-size: 10px;
        line-height: 12px;
      }
