@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 25 2021 13:09:52 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Aug 26 2021 02:01:54 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -721,6 +721,214 @@
        width: 367px;
        max-height: none;
        max-width: 415px;
+     }
+   }
+   
+   @media screen and (max-width: 479px) {
+     .firstsection {
+       min-height: 50vh;
+       padding-right: 30px;
+       padding-left: 30px;
+     }
+   
+     .heading {
+       margin-bottom: 4vw;
+       font-size: 13vw;
+       line-height: 15vw;
+     }
+   
+     .container.tabletdiv.mobilediv {
+       width: auto;
+       max-width: 90vw;
+     }
+   
+     .paragraph {
+       margin-top: 4vw;
+       margin-bottom: 7vw;
+       font-size: 3vw;
+       line-height: 3vw;
+     }
+   
+     .button.ghost-button {
+       margin-left: 18px;
+       font-size: 2vw;
+     }
+   
+     .left {
+       max-width: 81vw;
+       margin-top: 0px;
+       margin-right: 0px;
+     }
+   
+     .flexbox {
+       -webkit-box-orient: vertical;
+       -webkit-box-direction: reverse;
+       -webkit-flex-direction: column-reverse;
+       -ms-flex-direction: column-reverse;
+       flex-direction: column-reverse;
+     }
+   
+     .image {
+       width: 89vw;
+       height: auto;
+       max-width: 100%;
+       margin-bottom: 31px;
+     }
+   
+     .navflexbox {
+       display: inline-block;
+       -webkit-box-align: start;
+       -webkit-align-items: flex-start;
+       -ms-flex-align: start;
+       align-items: flex-start;
+     }
+   
+     .navbar {
+       padding-top: 20px;
+       padding-right: 0px;
+       padding-left: 30px;
+     }
+   
+     .image-2 {
+       display: inline-block;
+       width: 120px;
+       height: 18px;
+       margin-top: 0px;
+     }
+   
+     .second-section {
+       padding: 40px 30px;
+     }
+   
+     .heading-2 {
+       font-size: 25px;
+       line-height: 38px;
+     }
+   
+     .paragraph-2 {
+       margin-top: 15px;
+       margin-bottom: 30px;
+       font-size: 12px;
+       line-height: 18px;
+     }
+   
+     .calltoactionsection {
+       padding: 40px 30px 16px;
+     }
+   
+     .rightdiv {
+       width: 81vw;
+       max-width: 81vw;
+       margin-top: 5vw;
+       margin-left: 0px;
+     }
+   
+     .line {
+       width: 183px;
+     }
+   
+     .ratingdiv {
+       width: 260px;
+       max-width: 260px;
+     }
+   
+     .paragraph-3 {
+       max-width: 81vw;
+       margin-top: 0px;
+       margin-bottom: 4vw;
+       font-size: 3vw;
+       line-height: 4vw;
+     }
+   
+     .heading-3 {
+       max-width: 81vw;
+       margin-bottom: 5vw;
+       font-size: 7vw;
+       line-height: 10vw;
+     }
+   
+     .ctabuttons {
+       margin-bottom: 6vw;
+     }
+   
+     .paragraph-4 {
+       margin-left: 14px;
+       font-size: 9px;
+       line-height: 14px;
+     }
+   
+     .image-3 {
+       width: 73px;
+       height: 15px;
+       margin-right: 14px;
+     }
+   
+     .ctaflex {
+       -webkit-box-orient: vertical;
+       -webkit-box-direction: normal;
+       -webkit-flex-direction: column;
+       -ms-flex-direction: column;
+       flex-direction: column;
+     }
+   
+     .footer {
+       padding: 18px 30px 11px;
+     }
+   
+     .footerflexdiv {
+       margin-bottom: 21px;
+     }
+   
+     .image-4 {
+       height: 8px;
+       max-width: 27px;
+       font-size: 13px;
+     }
+   
+     .paragraph-5 {
+       margin-top: 3px;
+       font-size: 3px;
+       line-height: 5px;
+     }
+   
+     .heading-4 {
+       font-size: 5px;
+       line-height: 6px;
+     }
+   
+     .link {
+       margin-top: 1px;
+       margin-bottom: 1px;
+       font-size: 3px;
+       line-height: 5px;
+     }
+   
+     .link.first {
+       margin-top: 3px;
+       font-size: 3px;
+     }
+   
+     .paragraph-6 {
+       font-size: 4px;
+       line-height: 6px;
+     }
+   
+     .image-5 {
+       max-width: 100%;
+     }
+   
+     .image-6 {
+       max-width: 100%;
+       margin-bottom: 0px;
+     }
+   
+     .menu-button {
+       padding-top: 0px;
+       padding-bottom: 0px;
+     }
+   
+     .nav-menu {
+       display: none;
      }
    }
    @font-face {
